@@ -1,0 +1,1883 @@
+# Translation of Themes - Real Estate Elementor in Ukrainian
+# This file is distributed under the same license as the Themes - Real Estate Elementor package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-09 14:12:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Themes - Real Estate Elementor\n"
+
+#. Theme Name of the theme
+#: style.css lib/texture-option/texture-option.php:14
+#, gp-priority: high
+msgid "Real Estate Elementor"
+msgstr "Real Estate Elementor"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Real Estate Theme. The Real Estate Elementor Theme is a sophisticated and versatile WordPress theme designed specifically for real estate agencies, property brokers, realtors, and related businesses. With its modern design, intuitive features, and powerful customization options, this theme offers everything you need to showcase properties, attract clients, and grow your real estate business online. Whether you’re a seasoned real estate professional or just starting in the industry, the Real Estate Elementor Theme provides the tools and features you need to create a stunning website that elevates your brand and drives business growth. With its user-friendly interface and extensive functionality, it’s the perfect solution for building a successful online presence in the competitive real estate market. Our theme offers seamless integration with popular real estate plugins, ensuring smooth functionality for property searches, virtual tours, and agent profiles. Responsive design ensures optimal viewing on any device, so your listings look stunning whether viewed on a desktop, tablet, or smartphone."
+msgstr "Тема \"Нерухомість\". Real Estate Elementor Theme - це вишукана та універсальна тема WordPress, розроблена спеціально для агентств нерухомості, маклерів, ріелторів та пов'язаних з ними бізнесів. Завдяки сучасному дизайну, інтуїтивно зрозумілим функціям та потужним можливостям налаштування, ця тема пропонує все необхідне для демонстрації об'єктів нерухомості, залучення клієнтів та розвитку вашого бізнесу в Інтернеті. Незалежно від того, чи є ви досвідченим професіоналом у сфері нерухомості, чи тільки починаєте працювати в цій галузі, тема Real Estate Elementor надає інструменти та функції, необхідні для створення приголомшливого веб-сайту, який підніме ваш бренд і сприятиме зростанню бізнесу. Завдяки зручному інтерфейсу та широкій функціональності, це ідеальне рішення для створення успішної онлайн-присутності на конкурентному ринку нерухомості. Наша тема пропонує бездоганну інтеграцію з популярними плагінами для нерухомості, забезпечуючи безперебійну функціональність для пошуку нерухомості, віртуальних турів та профілів агентів. Адаптивний дизайн забезпечує оптимальний перегляд на будь-якому пристрої, тому ваші оголошення виглядають приголомшливо, незалежно від того, чи переглядаються вони на настільному комп'ютері, планшеті або смартфоні."
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:139
+msgid "100"
+msgstr "100"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:143
+msgid "100 Italic"
+msgstr "100 курсив"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:147
+msgid "200"
+msgstr "200"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:151
+msgid "200 Italic"
+msgstr "200 курсив"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:155
+msgid "300"
+msgstr "300"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:159
+msgid "300 Italic"
+msgstr "300 курсив"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:163
+msgid "500"
+msgstr "500"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:167
+msgid "500 Italic"
+msgstr "500 курсив"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:171
+msgid "600"
+msgstr "600"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:175
+msgid "600 Italic"
+msgstr "600 курсив"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:120
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:179
+msgid "700"
+msgstr "700"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:124
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:183
+msgid "700 Italic"
+msgstr "700 курсив"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:187
+msgid "800"
+msgstr "800"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:191
+msgid "800 Italic"
+msgstr "800 курсив"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:195
+msgid "900"
+msgstr "900"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:199
+msgid "900 Italic"
+msgstr "900 курсив"
+
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:27
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:37
+msgid "Documentation"
+msgstr "Документація"
+
+#: inc/kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:484
+msgid "Error"
+msgstr "Помилка"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:328
+msgid "Font Color"
+msgstr "Колір шрифту"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:301
+msgid "Font Variant"
+msgstr "Варіант шрифту"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:116
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:135
+msgid "Italic"
+msgstr "Курсив"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:115
+msgid "Notifications"
+msgstr "Сповіщення"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:108
+msgid "Posts"
+msgstr "Записи"
+
+#: lib/texture-option/sidebar.php:3
+msgid "Pro Theme"
+msgstr "Тема Pro"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:112
+msgid "Products"
+msgstr "Товари"
+
+#: inc/kirki/kirki-packages/settings/templates/settings-template.php:38
+msgid "Settings"
+msgstr "Налаштування"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:110
+msgid "Social"
+msgstr "Соцмережі"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:386
+msgid "Solid"
+msgstr "Суцільний"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:113
+msgid "Taxonomies"
+msgstr "Таксономії"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:103
+msgid "Welcome Screen"
+msgstr "Екран привітання"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:114
+msgid "Widgets"
+msgstr "Віджети"
+
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin
+#. version 3. closing anchor tag, do not translate.
+#: inc/kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:233
+msgid "%1$sView version %2$s details%3$s."
+msgstr "%1$sПереглянути деталі версії %2$s%3$s."
+
+#: inc/kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:241
+msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+msgstr "%1$sПереглянути деталі %2$s %3$s або %4$sоновити зараз%5$s."
+
+#: inc/kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:252
+msgid "Update now."
+msgstr "Оновити зараз."
+
+#: inc/kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:484
+msgid "You do not have permission to install plugin updates"
+msgstr "Ви не маєте дозволу на встановлення оновлень плагінів"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:102
+msgid "Admin Menu"
+msgstr "Меню адміністратора"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:104
+msgid "Post Formats"
+msgstr "Формати запису"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:105
+msgid "Media"
+msgstr "Медіафайли"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:106
+msgid "Image Editing"
+msgstr "Редагування зображень"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:109
+msgid "Sorting"
+msgstr "Сортування"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:116
+msgid "Miscelaneous"
+msgstr "Різне"
+
+#: inc/kirki/kirki-packages/control-react-select/src/Control/ReactSelect.php:162
+msgid "Select..."
+msgstr "Вибір..."
+
+#. translators: %s is the limit of selection number.
+#: inc/kirki/kirki-packages/control-react-select/src/Control/ReactSelect.php:169
+msgid "You can only select %s items"
+msgstr "Можете вибрати лише %s елементів"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:112
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:131
+msgid "Regular"
+msgstr "Звичайний"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:387
+msgid "Wavy"
+msgstr "Хвилястий"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:850
+msgid "Defaults"
+msgstr "Початкові"
+
+#: inc/kirki/kirki-packages/settings/src/Notice.php:132
+msgid "Invalid nonce"
+msgstr "Недійсний nonce"
+
+#: inc/kirki/kirki-packages/settings/src/Notice.php:136
+msgid "You don't have capability to run this action"
+msgstr "У вас немає можливості виконати цю дію"
+
+#: inc/kirki/kirki-packages/settings/src/Notice.php:144
+msgid "Discount notice has been dismissed"
+msgstr "Сповіщення про знижку було відхилено"
+
+#: inc/kirki/kirki-packages/settings/src/SetupSettings.php:54
+#: inc/kirki/kirki-packages/settings/templates/settings-template.php:23
+msgid "Kirki Customizer Framework"
+msgstr "Kirki Customizer Framework"
+
+#: inc/kirki/kirki-packages/settings/src/SetupSettings.php:55
+msgid "Kirki"
+msgstr "Kirki"
+
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:12
+msgid "Clear Font Cache"
+msgstr "Очистити кеш шрифту"
+
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:15
+msgid "In order to achieve GDPR-compliance, Kirki stores Google Fonts locally on your server."
+msgstr "Щоб досягти відповідності GDPR, Kirki зберігає шрифти Google локально на вашому сервері."
+
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:16
+msgid "If Google Fonts selected in the Customizer are not displayed correctly, please try clearing the font cache."
+msgstr "Якщо шрифти Google, вибрані в Налаштовувачі, відображаються некоректно, спробуйте очистити кеш шрифтів."
+
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:19
+msgid "This is safe to do on production sites."
+msgstr "Це безпечно робити на виробничих сайтах."
+
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:26
+msgid "Clear Cache"
+msgstr "Очистити кеш"
+
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:13
+msgid "Why do I see this?"
+msgstr "Чому я це бачу?"
+
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:17
+msgid "Kirki is a key component of the WordPress theme you have installed."
+msgstr "Kirki - це ключовий компонент встановленої вами теми WordPress."
+
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:20
+msgid "It provides advanced customization options within the WordPress Customizer, allowing you to easily modify the appearance of your site."
+msgstr "Він надає розширені можливості налаштування в WordPress Customizer, що дозволяє вам легко змінювати зовнішній вигляд вашого сайту."
+
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:31
+msgid "For more information, please refer to your theme's documentation."
+msgstr "Для отримання додаткової інформації, будь ласка, зверніться до документації вашої теми."
+
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:34
+msgid "The following article provides a detailed explanation of the Clear Font Cache option in Kirki."
+msgstr "У наступній статті наведено докладний опис параметра Очистити кеш шрифтів у Kirki."
+
+#: inc/kirki/kirki-packages/settings/templates/settings-template.php:26
+msgid "The #1 Customizer Toolkit for WordPress Theme Developers."
+msgstr "Інструментарій №1 для розробників тем WordPress."
+
+#. translators: the plugin name.
+#: inc/kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:222
+msgid "There is a new version of %1$s available."
+msgstr "Доступна нова версія %1$s."
+
+#: functions.php:293
+msgid "Elementor"
+msgstr "Elementor"
+
+#: inc/tgm/hook-tgm.php:35
+msgid "Elementor Website Builder"
+msgstr "Конструктор сайтів Elementor"
+
+#: footer.php:73
+msgid "Go to top"
+msgstr "Наверх"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:384
+msgid "Line Through"
+msgstr "Перекреслений"
+
+#: inc/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "H"
+
+#: inc/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "H:i"
+
+#: inc/woocommerce/woo-function.php:50
+msgid "Shopping Cart"
+msgstr "Кошик"
+
+#. translators: %s: post author.
+#: inc/template-tags.php:46
+msgctxt "post author"
+msgid "by %s"
+msgstr "від %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ", "
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:66
+msgid "Posted in %1$s"
+msgstr "Опубліковано у %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:73
+msgid "Tagged %1$s"
+msgstr "Позначено %1$s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:83
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Залишити коментар<span class=\"screen-reader-text\"> до %s</span>"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:100 template-parts/content-page.php:39
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Редагувати <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Встановити необхідні плагіни"
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Встановити плагіни"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Встановлення плагіну: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Оновлення плагіну: %s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Щось пішло не так із API плагіну."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ця тема потребує наступного плагіну: %1$s."
+msgstr[1] "Ця тема потребує наступних плагінів: %1$s."
+msgstr[2] "Ця тема потребує наступних плагінів: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ця тема рекомендує наступний плагін: %1$s."
+msgstr[1] "Ця тема рекомендує наступні плагіни: %1$s."
+msgstr[2] "Ця тема рекомендує наступних плагінів: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Є оновлення для: %1$s."
+msgstr[1] "Є оновлення для: %1$s."
+msgstr[2] "Є оновлення для: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Наступний необхідний плагін наразі неактивен: %1$s."
+msgstr[1] "Наступні необхідні плагіни наразі неактивно: %1$s."
+msgstr[2] "Наступних необхідних плагінів наразі неактивовано: %1$s.."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Наступний рекомендований плагін наразі неактивен: %1$s."
+msgstr[1] "Наступні рекомендовані плагіни наразі неактивні: %1$s."
+msgstr[2] "Наступних рекомендованих плагінів наразі неактивовано: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Почати встановлення плагіну"
+msgstr[1] "Почати встановлення плагінів"
+msgstr[2] "Почати встановлення плагінів"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Наступний плагін повинен бути оновлений до останньої версії для забезпечення максимальної сумісності з цією темою: %1$s."
+msgstr[1] "Наступні плагіни повинні бути оновленими до останньої версії для забезпечення максимальної сумісності з цією темою: %1$s."
+msgstr[2] "Наступних плагінів повинно бути оновлено до останньої версії для забезпечення максимальної сумісності з цією темою: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Почати оновлення плагіну"
+msgstr[1] "Почати оновлювати плагіни"
+msgstr[2] "Почати оновлення плагінів"
+
+#: inc/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Почати активацію плагіну"
+msgstr[1] "Почати активацію плагінів"
+msgstr[2] "Почати активацію плагінів"
+
+#: inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Повернутися до розділу встановлення необхідних плагінів"
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+#: inc/tgm/class-tgm-plugin-activation.php:822
+#: inc/tgm/class-tgm-plugin-activation.php:2518
+#: inc/tgm/class-tgm-plugin-activation.php:3558
+msgid "Return to the Dashboard"
+msgstr "Повернутися до майстерні"
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+#: inc/tgm/class-tgm-plugin-activation.php:3137
+msgid "Plugin activated successfully."
+msgstr "Плагін успішно активовано."
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+#: inc/tgm/class-tgm-plugin-activation.php:2930
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Наступний плагін було успішно активовано:"
+msgstr[1] "Наступні плагіни було успішно активовано:"
+msgstr[2] "Наступних плагінів було успішно активовано:"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Ніяких дій не здійснено. Плагін %1$s було вже активовано."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагін не активовано. Для цієї теми потрібна новіша версія %s. Будь ласка, оновіть плагін."
+
+#. translators: 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Усі плагіни успішно встановлено та активовано. %1$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Відхилити це сповіщення"
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Необхідно встановити, оновити або активувати ще один або кілька обов'язкових і рекомендованих плагінів."
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Зверніться по допомогу до адміністратора цього сайту."
+
+#: inc/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Цей плагін потрібно оновити для сумісності з вашою темою."
+
+#: inc/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Потрібне оновлення"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:362
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:382
+msgid "None"
+msgstr "Немає"
+
+#: inc/tgm/class-tgm-plugin-activation.php:922
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Пакет віддаленого плагіна складається з кількох файлів, але файли не упаковані в папку."
+
+#: inc/tgm/class-tgm-plugin-activation.php:922
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Будь ласка, зв'яжіться з автором плагіна та попросіть запакувати плагін відповідно до правил WordPress."
+
+#: inc/tgm/class-tgm-plugin-activation.php:1106
+#: inc/tgm/class-tgm-plugin-activation.php:2926
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "та"
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:1967
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2258
+msgid "Required"
+msgstr "Обов'язково"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2261
+msgid "Recommended"
+msgstr "Рекомендовані"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2277
+msgid "WordPress Repository"
+msgstr "Репозиторій WordPress"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:67
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:351
+msgid "Left"
+msgstr "Ліворуч"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2280
+msgid "External Source"
+msgstr "Зовнішнє джерело"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2283
+msgid "Pre-Packaged"
+msgstr "Заздалегідь запаковано"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:68
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:353
+msgid "Right"
+msgstr "Праворуч"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2300
+msgid "Not Installed"
+msgstr "Не встановлено"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2304
+msgid "Installed But Not Activated"
+msgstr "Встановлено, але не активовано"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2306
+msgid "Active"
+msgstr "Діючий"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2312
+msgid "Required Update not Available"
+msgstr "Потрібне оновлення не доступне"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Requires Update"
+msgstr "Потребує оновлення"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2318
+msgid "Update recommended"
+msgstr "Рекомендоване оновлення"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2373
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Всі <span class=\"count\">(%s)</span>"
+msgstr[1] "Всі <span class=\"count\">(%s)</span>"
+msgstr[2] "Всі <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2377
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Встановити <span class=\"count\">(%s)</span>"
+msgstr[1] "Встановити <span class=\"count\">(%s)</span>"
+msgstr[2] "Встановити <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2381
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступне оновлення <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступні оновлення <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступних оновлень <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2385
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Для активації <span class=\"count\">(%s)</span>"
+msgstr[1] "Для активації <span class=\"count\">(%s)</span>"
+msgstr[2] "Для активації <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2467
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "невідома"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2475
+msgid "Installed version:"
+msgstr "Встановлена версія:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2483
+msgid "Minimum required version:"
+msgstr "Мін. необхідна версія:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2495
+msgid "Available version:"
+msgstr "Доступна версія:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2518
+msgid "No plugins to install, update or activate."
+msgstr "Немає плагінів для встановлення, оновлення або активації."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2532
+msgid "Plugin"
+msgstr "Плагін"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+msgid "Source"
+msgstr "Джерело"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2534
+msgid "Type"
+msgstr "Тип"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2538
+msgid "Version"
+msgstr "Версія"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2539
+msgid "Status"
+msgstr "Статус"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2588
+msgid "Install %2$s"
+msgstr "Встановити %2$s"
+
+#. translators: Copyright date format, see
+#. https://www.php.net/manual/datetime.format.php
+#: footer.php:46
+msgctxt "copyright date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2593
+msgid "Update %2$s"
+msgstr "Оновити %2$s"
+
+#: footer.php:54
+msgid "https://wordpress.org/"
+msgstr "https://uk.wordpress.org/"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2599
+msgid "Activate %2$s"
+msgstr "Активувати %2$s"
+
+#: footer.php:55
+msgid "Powered by WordPress"
+msgstr "Працює на WordPress"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2669
+msgid "Upgrade message from the plugin author:"
+msgstr "Повідомлення про оновлення від автора плагіну:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2702
+msgid "Install"
+msgstr "Встановити"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Сторінка на всю ширину"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2708
+msgid "Update"
+msgstr "Оновити"
+
+#: functions.php:55 header.php:188
+msgid "Primary Menu"
+msgstr "Основне меню"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2711
+msgid "Activate"
+msgstr "Активувати"
+
+#: functions.php:56
+msgid "Footer Menu"
+msgstr "Нижнє меню"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2742
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Жодних плагінів не обрано для встановлення. Жодних дій не виконано."
+
+#: functions.php:132 functions.php:144 functions.php:157
+msgid "Add widgets here."
+msgstr "Додайте віджети тут."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2744
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Жодних плагінів не обрано для оновлення. Жодних дій не виконано."
+
+#: functions.php:142
+msgid "Footer Widgets"
+msgstr "Віджети футеру"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2785
+msgid "No plugins are available to be installed at this time."
+msgstr "Наразі немає доступних плагінів для встановлення."
+
+#: functions.php:155
+msgid "WooCommerce Sidebar"
+msgstr "Бічна колонка WooCommerce"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2787
+msgid "No plugins are available to be updated at this time."
+msgstr "Наразі немає плагінів для оновлення."
+
+#: functions.php:283
+msgid "Testerwp Ecommerce Companion (Highly Recommended)"
+msgstr "Testerwp Ecommerce Companion (настійно рекомендується)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2886
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Жодних плагінів не обрано для активації. Жодних дій не виконано."
+
+#: functions.php:288 inc/tgm/hook-tgm.php:30
+msgid "One Click Demo Import"
+msgstr "One Click Demo Import"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2912
+msgid "No plugins are available to be activated at this time."
+msgstr "Наразі немає доступних плагінів для активації."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3136
+msgid "Plugin activation failed."
+msgstr "Активація плагіну не вдалася."
+
+#: header.php:61
+msgid "Skip to content"
+msgstr "Перейти до вмісту"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3476
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Оновлення плагіну %1$s (%2$d/%3$d)"
+
+#: header.php:197
+msgid "Menu Collapsed"
+msgstr "Згорнуте меню"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3479
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Сталася помилка при встановленні %1$s: <strong>%2$s</strong>."
+
+#: header.php:206
+msgid "Header Close Menu"
+msgstr "Меню закриття заголовку"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3481
+msgid "The installation of %1$s failed."
+msgstr "Встановити %1$s не вдалося."
+
+#: inc/breadcrumbs.php:264
+msgid "Browse:"
+msgstr "Оглядати:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3485
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Починається процес встановлення та активації. Цей процес може зайняти тривалий час на деяких системах, тому будь ласка, будьте терплячі."
+
+#: inc/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Навігаційні стежки"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3487
+#: inc/tgm/class-tgm-plugin-activation.php:3495
+msgid "%1$s done."
+msgstr "%1$s виконано."
+
+#: inc/breadcrumbs.php:266
+msgid "Home"
+msgstr "Домашня"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3488
+msgid "All installations and activations have been completed."
+msgstr "Усі встановлення та активації завершені."
+
+#: inc/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr "Не знайдено 404"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3490
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Встановлення та активація плагіну %1$s (%2$d/%3$d)"
+
+#: inc/breadcrumbs.php:268
+msgid "Archives"
+msgstr "Архіви"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3493
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Починається процес встановлення. Цей процес може зайняти тривалий час на деяких системах, тому будь ласка, будьте терплячі."
+
+#. Translators: %s is the search query.
+#: inc/breadcrumbs.php:270
+msgid "Search results for: %s"
+msgstr "Результати пошуку: %s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3496
+msgid "All installations have been completed."
+msgstr "Усі установки завершено."
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:272
+msgid "Page %s"
+msgstr "Сторінка %s"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3498
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Встановлення плагіну %1$s (%2$d/%3$d)"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:274
+msgid "Comment Page %s"
+msgstr "Сторінка коментарів %s"
+
+#: inc/tgm/hook-tgm.php:20
+msgid "Testerwp Ecommerce Companion"
+msgstr "Testerwp Ecommerce Companion"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:276
+msgid "Minute %s"
+msgstr "Хвилина %s"
+
+#: inc/tgm/hook-tgm.php:45
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:278
+msgid "Week %s"
+msgstr "Тиждень %s"
+
+#: inc/woocommerce/quick-view/quick-view-product-image.php:51
+msgid "Placeholder"
+msgstr "Заповнювач"
+
+#: inc/woocommerce/woo-core.php:226
+msgid "No more products to show."
+msgstr "Більше немає товарів для показу."
+
+#: inc/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/woocommerce/woo-core.php:338
+msgid "Quick View"
+msgstr "Швидкий перегляд"
+
+#: inc/woocommerce/woo-core.php:548 inc/woocommerce/woo-core.php:550
+msgid "Load More"
+msgstr "Завантажити ще"
+
+#: inc/breadcrumbs.php:788 inc/breadcrumbs.php:817 inc/breadcrumbs.php:844
+#: inc/breadcrumbs.php:871 inc/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/woocommerce/woo-function.php:27 inc/woocommerce/woo-function.php:79
+msgid "View your shopping cart"
+msgstr "Переглянути свій кошик"
+
+#: inc/breadcrumbs.php:789 inc/breadcrumbs.php:845 inc/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/woocommerce/woo-function.php:51
+msgid "close"
+msgstr "закрити"
+
+#: inc/breadcrumbs.php:790 inc/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/woocommerce/woo-function.php:58
+msgid "Return to shop"
+msgstr "Повернутися до магазину"
+
+#: inc/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/woocommerce/woo-function.php:277
+msgid "Meta Information"
+msgstr "Мета інформація"
+
+#: inc/class-wp-bootstrap-navwalker.php:365
+msgid "Add Menu"
+msgstr "Додати меню"
+
+#: inc/woocommerce/woo-function.php:409
+msgid "Account"
+msgstr "Обліковий запис"
+
+#: inc/custom-addition/class-customize.php:103
+msgid "Theme Doc"
+msgstr "Документація по теми"
+
+#: inc/woocommerce/woo-function.php:412
+msgid "Register"
+msgstr "Реєстрація"
+
+#: inc/custom-addition/class-customize.php:90
+#: inc/custom-addition/class-customize.php:104
+msgid "Click Here"
+msgstr "Натиснути тут"
+
+#: inc/woocommerce/woo-function.php:461 inc/woocommerce/woo-function.php:489
+msgid "No categories"
+msgstr "Без категорії"
+
+#: inc/custom-addition/class-customize.php:75
+#: inc/custom-addition/class-customize.php:76
+msgid "Theme Demo"
+msgstr "Демо теми"
+
+#: inc/woocommerce/woocommerce-ajax.php:29
+msgid "<span class=\"count-item\">%d <span class=\"item\">item</span></span>"
+msgid_plural "<span class=\"count-item\">%d <span class=\"item\">items</span></span>"
+msgstr[0] "<span class=\"count-item\">%d <span class=\"item\">елемент</span></span>"
+msgstr[1] "<span class=\"count-item\">%d <span class=\"item\">елемента</span></span>"
+msgstr[2] "<span class=\"count-item\">%d <span class=\"item\">елементів</span></span>"
+
+#: inc/custom-addition/class-customize.php:89 lib/texture-option/welcome.php:76
+msgid "Check Pro"
+msgstr "Проверить Pro"
+
+#: lib/texture-option/sidebar.php:17
+msgid "Support"
+msgstr "Підтримка"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:16
+msgid "Display Top Header"
+msgstr "Відображати верхній хедер"
+
+#: lib/texture-option/sidebar.php:4
+msgid "You can upgrade theme for multiple features of woocommerce."
+msgstr "Ви можете оновити тему для кількох функцій woocommerce."
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:28
+msgid "Display Social Icons"
+msgstr "Відображати іконки соцмереж"
+
+#: lib/texture-option/sidebar.php:5
+msgid "Upgrade To Pro"
+msgstr "Оновитися до Pro"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:47
+msgid "Facebook URL"
+msgstr "URL Facebook"
+
+#: lib/texture-option/sidebar.php:9
+msgid "Leave us a review"
+msgstr "Залишите нам огляд"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:66
+msgid "Twitter URL"
+msgstr "URL X (twitter)"
+
+#: lib/texture-option/sidebar.php:10
+msgid "We would love to hear your feedback."
+msgstr "Ми хотіли б почути ваш відгук."
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:85
+msgid "Instagram URL"
+msgstr "URL Instagram"
+
+#: lib/texture-option/sidebar.php:11
+msgid "Submit review"
+msgstr "Надіслати відгук"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:104
+msgid "Linkedin URL"
+msgstr "URL Linkedin"
+
+#: lib/texture-option/sidebar.php:18
+msgid "Have a question, we are happy to help! Get in touch with our support team."
+msgstr "Є питання, ми раді допомогти! Зв’яжіться з нашою командою підтримки."
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:123
+msgid "Pinterest URL"
+msgstr "URL Pinterest"
+
+#: lib/texture-option/sidebar.php:19
+msgid "Submit a Ticket"
+msgstr "Відправити запит"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:142
+msgid "Youtube URL"
+msgstr "URL YouTube"
+
+#: lib/texture-option/tab-html.php:31
+msgid "FREE THEME"
+msgstr "БЕЗКОШТОВНА ТЕМА"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:161
+msgid "Display Social URL in new Window"
+msgstr "Відображати URL соцмереж у новому вікні"
+
+#: lib/texture-option/tab-html.php:35
+msgid "Welcome"
+msgstr "Ласкаво просимо"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:180
+msgid "Display Contact Number"
+msgstr "Відображати контактний номер"
+
+#: lib/texture-option/tab-html.php:36
+msgid "Recommended Plugin"
+msgstr "Рекомендований плагін"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:199
+msgid "Contact Number"
+msgstr "Контактний номер"
+
+#: lib/texture-option/tab-html.php:37
+msgid "Demo Import"
+msgstr "Імпорт демо"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:218
+msgid "Display Address"
+msgstr "Відображати адресу"
+
+#: lib/texture-option/tab-html.php:71
+msgid "Click Here To Import Demo Content"
+msgstr "Натисніть щоб імпортувати демо вміст"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:237
+msgid "Address"
+msgstr "Адреса"
+
+#: lib/texture-option/tab-html.php:73
+msgid "You need to Install required plugins like- Wptexture Customizer, WooCommerce and One click demo import plugin. After installing required plugins import button will activate."
+msgstr "Вам потрібно встановити необхідні плагіни, такі як Wptexture Customizer, WooCommerce та демонстраційний плагін імпорту в один клік. Після встановлення необхідних плагінів активується кнопка імпорту."
+
+#: lib/texture-option/tab-html.php:74
+msgid "Import Demo"
+msgstr "Імпорт демо"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:275
+msgid "Timing"
+msgstr "Вибір часу"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:298
+msgid "Read More Label"
+msgstr "Мітка читати далі"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:310
+msgid "Excerpt Length"
+msgstr "Довжина уривка"
+
+#: lib/texture-option/texture-option.php:48
+msgid "Welcome To %1s Theme"
+msgstr "Ласкаво просимо до теми %1s"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:312
+msgid "0 length will not show the excerpt."
+msgstr "При довжині 0, уривок не буде показано."
+
+#: lib/texture-option/texture-option.php:74
+msgid "Home Page"
+msgstr "Домашня сторінка"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:327
+msgid "Theme Layout"
+msgstr "Компонування теми"
+
+#: lib/texture-option/texture-option.php:113
+msgid "No plugin specified"
+msgstr "Плагін не вказано"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:328
+msgid "Box layout will be visible at minimum 1200px display"
+msgstr "Макет вікна буде видимим на дисплеї з роздільною здатністю мінімум 1200 px"
+
+#: lib/texture-option/texture-option.php:134
+msgid "Plugin Successfully Activated"
+msgstr "Плагін успішно активовано"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:333
+msgid "Wide"
+msgstr "По ширині"
+
+#: lib/texture-option/texture-option.php:148
+msgid "Details & Version"
+msgstr "Подробиці та версія"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:334
+msgid "Box"
+msgstr "Бокс"
+
+#: lib/texture-option/texture-option.php:172
+msgid "Activated"
+msgstr "Активовано"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:344
+msgid "Sidebar Position"
+msgstr "Положення бічної панел"
+
+#: lib/texture-option/texture-option.php:177
+msgid "Install Now"
+msgstr "Встановити зараз"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:349
+msgid "Right Sidebar"
+msgstr "Права бічна колонка"
+
+#: lib/texture-option/texture-option.php:199
+msgid "Activate Now"
+msgstr "Активувати зараз"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:350
+msgid "Left Sidebar"
+msgstr "Ліва бічна колонка"
+
+#: lib/texture-option/welcome.php:3
+msgid "1. Setup Home Page"
+msgstr "1. Налаштуйте домашню сторінку"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:351
+msgid "No Sidebar"
+msgstr "Без бічної колонки"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:365
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:417
+msgid "Display Author"
+msgstr "Відображати автора"
+
+#: lib/texture-option/welcome.php:5
+msgid "Go to Wp Dashboard > Pages > Add New > Create a Page using “Homepage Template” available in Page attribute."
+msgstr "Перейдіть до WP Майстерня > Сторінки > Додати нову > Створити сторінку за допомогою «Шаблону домашньої сторінки» доступного в атрибуті сторінки."
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:377
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:429
+msgid "Display Comments Count"
+msgstr "Відображати кількість коментарів"
+
+#: lib/texture-option/welcome.php:6
+msgid "Now go to Settings > Reading > Your homepage displays > A static page (select below) and set that page as your homepage."
+msgstr "Тепер перейдіть до Налаштування > Читання > Відображення вашої домашньої сторінки > Статична сторінка (виберіть нижче) і встановіть цю сторінку як свою домашню сторінку."
+
+#: lib/texture-option/welcome.php:11
+msgid "Home Page Activated"
+msgstr "Домашня сторінка активована"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:389
+msgid "Display Date on Image"
+msgstr "Відображення дати на зображенні"
+
+#: lib/texture-option/welcome.php:16
+msgid "Set Home Page"
+msgstr "Встановити домашню сторінку"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:401
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:465
+msgid "Display Featured Image"
+msgstr "Відображати головне зображення"
+
+#: lib/texture-option/welcome.php:29
+msgid "Theme Documentation"
+msgstr "Документація теми"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:441
+msgid "Display Date"
+msgstr "Відображати дату"
+
+#: lib/texture-option/welcome.php:38
+msgid "2. Customize Your Website"
+msgstr "2. Налаштуйте свій сайт"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:453
+msgid "Display Tags"
+msgstr "Відображати позначки"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:481
+msgid "Display Copyright Footer"
+msgstr "Відображати Copyright у футері"
+
+#: lib/texture-option/welcome.php:42
+msgid "Start Customize"
+msgstr "Почати налаштування"
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:493
+msgid "Team Title"
+msgstr "Назва команди"
+
+#: lib/texture-option/welcome.php:52
+msgid "Upload Logo"
+msgstr "Завантажити лого"
+
+#: lib/texture-option/welcome.php:60
+msgid "FrontPage Sections"
+msgstr "Розділ домашньої сторінки"
+
+#: lib/texture-option/welcome.php:63
+msgid "Footer Section"
+msgstr "Розділ футеру"
+
+#: lib/texture-option/welcome.php:72
+msgid "4. Premium Version"
+msgstr "4. Преміум-версія"
+
+#: search.php:35
+msgid "Search Results for: %s"
+msgstr "Результати пошуку для: %s"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готові опублікувати свій перший запис? <a href=\"%1$s\">Почніть звідси</a>."
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "На жаль, але нічого не відповідає вашому пошуковому запиту. Будь ласка, спробуйте ще раз, використовуючи інші ключові слова."
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:517
+msgid "Enable Sticky Header"
+msgstr "Увімкнути прикріплений хедер"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Схоже, ми не можемо знайти те, що ви шукали. Можливо, пошук може допомогти."
+
+#: inc/customizer/cv-customizer-frontpage-panel-options.php:528
+msgid "Enable Preloader"
+msgstr "Увімкнути анімацію завантаження"
+
+#: template-parts/content-page.php:25
+msgid "Pages:"
+msgstr "Сторінки:"
+
+#: inc/customizer/cv-customizer-panels.php:14
+msgid "General Settings"
+msgstr "Загальні налаштування"
+
+#: inc/customizer/cv-customizer-sections.php:13
+msgid "Top Header Options"
+msgstr "Параметри верхнього хедера"
+
+#: inc/customizer/cv-customizer-sections.php:15
+msgid "Personalize the settings top header."
+msgstr "Персоналізуйте налаштування верхнього хедера."
+
+#: inc/customizer/cv-customizer-sections.php:23
+msgid "General Options"
+msgstr "Загальні параметри"
+
+#: inc/customizer/cv-customizer-sections.php:25
+msgid "Personalize the settings of your theme."
+msgstr "Персоналізуйте налаштування вашої теми."
+
+#: inc/customizer/cv-customizer-sections.php:33
+msgid "Layout Options"
+msgstr "Параметри компонування"
+
+#: inc/customizer/cv-customizer-sections.php:35
+msgid "Personalize the layout settings of your theme."
+msgstr "Персоналізуйте налаштування макета вашої теми."
+
+#: inc/customizer/cv-customizer-sections.php:43
+msgid "Blog Post Options"
+msgstr "Параметри запису блогу"
+
+#: inc/customizer/cv-customizer-sections.php:45
+msgid "Setting will also apply on archieve and search page."
+msgstr "Налаштування також застосовуватимуться на сторінці архіву та пошуку."
+
+#: inc/customizer/cv-customizer-sections.php:53
+msgid "Single Post Options"
+msgstr "Параметри окремого запису"
+
+#: inc/customizer/cv-customizer-sections.php:55
+msgid "Setting will apply on the content of single posts."
+msgstr "Налаштування застосовуватиметься до вмісту окремого запису."
+
+#: inc/customizer/cv-customizer-sections.php:63
+msgid "Footer Options"
+msgstr "Параметри футеру"
+
+#: 404.php:20
+msgid "404"
+msgstr "404"
+
+#: inc/customizer/cv-customizer-sections.php:73
+msgid "Advance Options"
+msgstr "Розширені параметри"
+
+#: 404.php:21
+msgid "Oops! Page Not Found"
+msgstr "Ой! Сторінку не знайдено"
+
+#: inc/customizer/cv-customizer-sections.php:75
+msgid "Personalize the Advance settings of your theme."
+msgstr "Персоналізуйте додаткові налаштування вашої теми."
+
+#: 404.php:22
+msgid "Sorry but the page you are looking for is not found. Please make sure you have typed the correct URL."
+msgstr "На жаль, але сторінку, яку ви шукаєте, не знайдена. Переконайтеся, що ви ввели правильну URL-адресу."
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:84
+msgid "Background Color"
+msgstr "Колір фону"
+
+#: 404.php:24
+msgid "Back To Home"
+msgstr "Назад на домашню"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:103
+msgid "Background Image"
+msgstr "Фонове зображення"
+
+#: archive.php:45 template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:475
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:480
+msgid "No File Selected"
+msgstr "Файл не вибрано"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Один коментар до &ldquo;%1$s&rdquo;"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s коментар до &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s коментарі до &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s коментарів до &ldquo;%2$s&rdquo;"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:124
+msgid "Repeat All"
+msgstr "Повторювати все"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Коментування закрито."
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:125
+msgid "Repeat Horizontally"
+msgstr "Повторювати горизонтально"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:126
+msgid "Repeat Vertically"
+msgstr "Повторювати вертикально"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:454
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:456
+msgid "Change Image"
+msgstr "Змінити зображення"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:196
+msgid "Auto"
+msgstr "Авто"
+
+#: inc/kirki/kirki-packages/control-image/src/Control/Image.php:85
+#: inc/kirki/kirki-packages/control-image/src/Field/Image.php:114
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:453
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:485
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:510
+msgid "Remove"
+msgstr "Видалити"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:877
+msgid "Standard Fonts"
+msgstr "Стандартні шрифти"
+
+#: inc/kirki/kirki-packages/control-image/src/Control/Image.php:87
+#: inc/kirki/kirki-packages/control-image/src/Field/Image.php:113
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:852
+msgid "Default"
+msgstr "Початковий"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:882
+msgid "Google Fonts"
+msgstr "Шрифти Google"
+
+#: inc/kirki/kirki-packages/control-image/src/Control/Image.php:82
+#: inc/kirki/kirki-packages/control-image/src/Field/Image.php:115
+#: inc/kirki/kirki-packages/control-image/dist/control.js:1
+#: inc/kirki/kirki-packages/control-image/src/control.js:100
+#: inc/kirki/kirki-packages/control-image/dist/control.js:100
+msgid "No image selected"
+msgstr "Зображення не вибрано"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:119
+msgid "Background Repeat"
+msgstr "Повторення фону"
+
+#: inc/kirki/kirki-packages/control-dimension/src/Control/Dimension.php:67
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:74
+msgid "Invalid Value"
+msgstr "Невірне значення"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:190
+msgid "Background Size"
+msgstr "Розмір фону"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:59
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:323
+msgid "Font Size"
+msgstr "Розмір шрифту"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:152
+msgid "Background Position"
+msgstr "Розташування фону"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:60
+msgid "Font Weight"
+msgstr "Товщина шрифту"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:222
+msgid "Background Attachment"
+msgstr "Вкладення фону"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:61
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:402
+msgid "Line Height"
+msgstr "Висота рядка"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:123
+msgid "No Repeat"
+msgstr "Не повторювати"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:62
+msgid "Font Style"
+msgstr "Стиль шрифту"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:63
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:407
+msgid "Letter Spacing"
+msgstr "Інтервал між літерами"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:64
+msgid "Word Spacing"
+msgstr "Інтервал між словами"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:65
+msgid "Top"
+msgstr "Зверху"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:194
+msgid "Cover"
+msgstr "Обкладинка"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:66
+msgid "Bottom"
+msgstr "Знизу"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:195
+msgid "Contain"
+msgstr "Містити"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:69
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:352
+msgid "Center"
+msgstr "По центру"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:156
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:50
+msgid "Left Top"
+msgstr "Ліворуч зверху"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:70
+msgid "Size"
+msgstr "Розмір"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:157
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:51
+msgid "Left Center"
+msgstr "Ліворуч по центру"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:71
+msgid "Spacing"
+msgstr "Відступ"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:158
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:52
+msgid "Left Bottom"
+msgstr "Ліворуч знизу"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:72
+msgid "Width"
+msgstr "Ширина"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:162
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:53
+msgid "Right Top"
+msgstr "Праворуч зверху"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:73
+msgid "Height"
+msgstr "Висота"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:163
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:54
+msgid "Right Center"
+msgstr "Праворуч по центру"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:95
+msgid "row"
+msgstr "рядок"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:164
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:55
+msgid "Right Bottom"
+msgstr "Праворуч знизу"
+
+#. translators: %s represents the label of the row.
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:104
+msgid "Add new %s"
+msgstr "Додати нове %s"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:159
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:56
+msgid "Center Top"
+msgstr "По центру зверху"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:139
+msgid "Select a Page"
+msgstr "Оберіть сторінку"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:160
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:57
+msgid "Center Center"
+msgstr "По центру в центрі"
+
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:275
+msgid "Limit: %s rows"
+msgstr "Обмеження: %s рядків"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:161
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:58
+msgid "Center Bottom"
+msgstr "По центру знизу"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:443
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:448
+msgid "No Image Selected"
+msgstr "Зображення не вибрано"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:228
+msgid "Fixed"
+msgstr "Фіксований"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:454
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:458
+msgid "Add Image"
+msgstr "Додати зображення"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:227
+msgid "Scroll"
+msgstr "Прокручувати"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:486
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:490
+msgid "Add File"
+msgstr "Додати файл"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:486
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:488
+msgid "Change File"
+msgstr "Змінити файл"
+
+#. translators: The title.
+#: inc/kirki/kirki-packages/module-sections/src/Section_Types/Nested.php:65
+msgid "Customizing &#9656; %s"
+msgstr "Персоналізація &#9656; %s"
+
+#: inc/kirki/kirki-packages/module-sections/src/Section_Types/Nested.php:62
+msgid "Customizing"
+msgstr "Налаштування"
+
+#: inc/kirki/kirki-packages/control-checkbox/src/Control/Checkbox_Switch.php:79
+msgid "On"
+msgstr "Увімк"
+
+#: inc/kirki/kirki-packages/control-checkbox/src/Control/Checkbox_Switch.php:80
+msgid "Off"
+msgstr "Вимк"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:274
+msgid "Font Family"
+msgstr "Сімейство шрифтів"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:347
+msgid "Text Align"
+msgstr "Вирівнювання тексту"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:354
+msgid "Justify"
+msgstr "По ширині"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:359
+msgid "Text Transform"
+msgstr "Трансформація тексту"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:363
+msgid "Capitalize"
+msgstr "Заголовні букви"
+
+#: functions.php:130
+msgid "Sidebar"
+msgstr "Бічна колонка"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:364
+msgid "Uppercase"
+msgstr "Верхній регістр"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:365
+msgid "Lowercase"
+msgstr "Нижній регістр"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:350
+msgid "Initial"
+msgstr "Початкова"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:379
+msgid "Text Decoration"
+msgstr "Оформлення тексту"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:383
+msgid "Underline"
+msgstr "Підкреслений"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:385
+msgid "Overline"
+msgstr "Надрядковий"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:422
+msgid "Margin Top"
+msgstr "Зовнішній відступ зверху"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:427
+msgid "Margin Bottom"
+msgstr "Зовнішній відступ знизу"
+
+#: inc/kirki/kirki-packages/control-image/src/Control/Image.php:89
+#: inc/kirki/kirki-packages/control-image/src/Field/Image.php:111
+#: inc/kirki/kirki-packages/control-image/src/Field/Image.php:116
+msgid "Select image"
+msgstr "Виберіть зображення"
+
+#: inc/kirki/kirki-packages/control-image/src/Field/Image.php:112
+msgid "Change image"
+msgstr "Змінити зображення"
+
+#: inc/kirki/kirki-packages/control-image/src/Field/Image.php:117
+msgid "Choose image"
+msgstr "Обрати зображення"
+
+#. translators: %s represents the field ID where the error occurs.
+#: inc/kirki/kirki-packages/compatibility/src/Field.php:267
+msgid "Typo found in field %s - setting instead of settings."
+msgstr "Знайдена помилка у полі %s - налаштунок замість налаштувань."
+
+#. translators: %1$s represents the field ID where the error occurs. %2$s is
+#. the URL in the documentation site.
+#: inc/kirki/kirki-packages/compatibility/src/Field.php:278
+msgid "Config not defined for field %1$s - See %2$s for details on how to properly add fields."
+msgstr "Не задане налаштування для поля %1$s - Ознайомтесь з %2$s як правильно додавати поля."
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: inc/kirki/kirki-packages/compatibility/src/Field.php:394
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr "\"partial_refresh\" некоректне значення у полі %s"
+
+#. translators: The field ID where the error occurs.
+#: inc/kirki/kirki-packages/compatibility/src/Field.php:520
+#: inc/kirki/kirki-packages/compatibility/src/Field.php:531
+#: inc/kirki/kirki-packages/module-css/src/CSS.php:133
+#: inc/kirki/kirki-packages/module-css/src/CSS.php:144
+#: inc/kirki/kirki-packages/module-postmessage/src/Postmessage.php:69
+msgid "\"output\" invalid format in field %s. The \"output\" argument should be defined as an array of arrays."
+msgstr "\"output\" невірний формат у полі %s. Аргумент \"output\" повинен бути об'явлений як масив масивів."
+
+#: inc/kirki/kirki-packages/compatibility/src/Init.php:257
+msgid "Your theme uses a Font Awesome field for icons. To avoid issues with missing icons on your frontend we recommend you install the official Font Awesome plugin."
+msgstr "Ваша тема використовує шрифт Font Awesome для іконок. Щоб уникнути проблем з відсутніми іконками у вашому інтерфейсі, ми рекомендуємо встановити офіційний плагін Font Awesome."
+
+#: inc/kirki/kirki-packages/compatibility/src/Init.php:260
+msgid "Install Plugin"
+msgstr "Встановити плагін"
+
+#: inc/kirki/kirki-packages/compatibility/src/Init.php:261
+msgid "Don't show this again"
+msgstr "Не показуйте це знову"
+
+#: inc/kirki/kirki-packages/compatibility/src/Kirki.php:191
+msgid "Kirki fields should not be added on customize_register. Please add them directly, or on init."
+msgstr "Поля Kirki не слід додавати в customize_register. Будь ласка, додайте їх безпосередньо або до елементу."
+
+#: inc/kirki/kirki-packages/compatibility/src/deprecated/functions.php:20
+msgid "%1$s or %2$s"
+msgstr "%1$s чи %2$s"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:162
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:163
+msgid "Ultra-Light 100"
+msgstr "Ультралегкий 100"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:164
+msgid "Ultra-Light 100 Italic"
+msgstr "Дуже тонкий 100 курсив"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:165
+msgid "Light 200"
+msgstr "Тонкий 200"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:166
+msgid "Light 200 Italic"
+msgstr "Тонкий 200 курсив"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:167
+msgid "Book 300"
+msgstr "Книжковий 300"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:168
+msgid "Book 300 Italic"
+msgstr "Книжковий 300 курсив"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:169
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:170
+msgid "Normal 400"
+msgstr "Звичайний 400"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:171
+msgid "Normal 400 Italic"
+msgstr "Звичайний 400 курсив"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:172
+msgid "Medium 500"
+msgstr "Середній 500"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:173
+msgid "Medium 500 Italic"
+msgstr "Середній 500 курсив"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:174
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:175
+msgid "Semi-Bold 600"
+msgstr "Напівжирний 600"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:176
+msgid "Semi-Bold 600 Italic"
+msgstr "Напівжирний 600 курсив"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:177
+msgid "Bold 700"
+msgstr "Жирний 700"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:178
+msgid "Bold 700 Italic"
+msgstr "Жирний 700 курсив"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:179
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:180
+msgid "Extra-Bold 800"
+msgstr "Екстра жирний 800"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:181
+msgid "Extra-Bold 800 Italic"
+msgstr "Екстра жирний 800 курсив"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:182
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:183
+msgid "Ultra-Bold 900"
+msgstr "Ультра жирний 900"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:184
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ультра жирний 900 курсив"
+
+#: functions.php:303 lib/texture-option/welcome.php:54
+msgid "Woocommerce"
+msgstr "WooCommerce"
+
+#: inc/kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr "Важливе сповіщення про оновлення:"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:30
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Опубліковано %s"
+
+#: functions.php:298 inc/tgm/hook-tgm.php:40
+msgid "ElementsKit Lite"
+msgstr "ElementsKit Lite"
+
+#: inc/customizer/cv-customizer-sections.php:65
+msgid "Personalize the footer settings of your theme."
+msgstr "Персоналізуйте налаштування футера вашої теми."
+
+#: inc/kirki/kirki-packages/compatibility/src/Init.php:206
+msgid "We detected you're using Kirki\\Compatibility\\Init::get_variables(). Please use \\Kirki\\Util\\Util::get_variables() instead."
+msgstr "Ми виявили, що ви використовуєте Kirki\\Compatibility\\Init::get_variables(). Натомість використовуйте \\Kirki\\Util\\Util::get_variables()."
+
+#: lib/texture-option/texture-option.php:13
+msgid "Real State Elementor Options"
+msgstr "Параметри Real State Elementor"
+
+#: inc/customizer/cv-customizer-panels.php:22
+msgid "Real Estate Elementor Theme Options"
+msgstr "Параметри теми Real Estate Elementor"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://testerwp.com/"
+msgstr "https://testerwp.com/"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://testerwp.com/real-estate-elementor-free-theme/"
+msgstr "https://testerwp.com/real-estate-elementor-free-theme/"
+
+#. Author of the theme
+#: style.css lib/texture-option/texture-option.php:46
+#, gp-priority: low
+msgid "wptexture"
+msgstr "wptexture"

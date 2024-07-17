@@ -1,0 +1,1002 @@
+# Translation of Themes - Real Estate Hub in Ukrainian
+# This file is distributed under the same license as the Themes - Real Estate Hub package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-07-10 12:37:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Themes - Real Estate Hub\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "The Real Estate Hub WordPress Theme is an innovative and sophisticated solution designed for real estate brokers, property investors, realty developers, home staging professionals, commercial leasing services, and vacation rental businesses. This theme is ideal for apartment complex advertising, luxury property showcases, real estate marketplace creation, and foreclosure listing services. Key features of this theme include virtual home tours, MLS (Multiple Listing Service) integration, mortgage calculators, neighborhood profiles, property valuation tools, and real estate agent directories. It supports listing syndication, real-time property updates, CRM (Customer Relationship Management) integration for lead management, and IDX (Internet Data Exchange) integration for real-time property listings. The theme is tailored for showcasing single-family homes, condominiums, townhouses, estates, land plots, and commercial properties. It's equipped with client testimonial sections, agent profile pages, open house schedules, and property investment calculators. Additionally, it includes functionality for rental property management, including tenant screening and lease agreement information. SEO optimization ensures enhanced online visibility for real estate listings and agencies, driving organic traffic to the site. Social media integration allows easy sharing of listings on platforms like Facebook, Instagram, LinkedIn, and Twitter, expanding the reach to potential clients. User-friendly navigation features like interactive sliders, photo galleries, and 360-degree property views provide an immersive experience. The theme's e-commerce capabilities enable real estate e-books, property buying guides, and seminar ticket sales directly from the site.For international real estate marketing, the theme offers multilingual support, catering to a global audience. It also includes blog sections for real estate advice, market trends, property maintenance tips, and neighborhood guides.In summary, the Real Estate Hub WordPress Theme is a comprehensive and feature-packed platform that offers a wide range of tools and functionalities for various players in the real estate industry, enhancing their online presence and streamlining property marketing and sales processes."
+msgstr "Тема WordPress Real Estate Hub — це інноваційне та складне рішення, розроблене для брокерів з нерухомості, інвесторів у нерухомість, забудовників, професіоналів із розміщення житла, послуг комерційної оренди та компаній, які займаються орендою на час відпочинку. Ця тема ідеально підходить для реклами житлових комплексів, вітрин елітної нерухомості, створення ринків нерухомості та служб викупу. Основні функції цієї теми включають віртуальні тури по домівках, інтеграцію MLS (Multiple Listing Service), іпотечні калькулятори, профілі районів, інструменти оцінки майна та довідники агентів з нерухомості. Він підтримує синдикацію списків, оновлення нерухомості в реальному часі, інтеграцію CRM (Customer Relationship Management) для керування потенційними клієнтами та інтеграцію IDX (Internet Data Exchange) для списків нерухомості в реальному часі. Тема розроблена для демонстрації односімейних будинків, кондомініумів, таунхаусів, маєтків, земельних ділянок і комерційної нерухомості. Він оснащений розділами відгуків клієнтів, сторінками профілів агентів, графіками днів відкритих дверей і калькуляторами інвестицій у нерухомість. Крім того, він містить функції для управління орендованим майном, включаючи перевірку орендарів та інформацію про договір оренди. SEO-оптимізація забезпечує покращену видимість в Інтернеті списків нерухомості та агентств, залучаючи органічний трафік на сайт. Інтеграція соціальних медіа дозволяє легко ділитися списками на таких платформах, як Facebook, Instagram, LinkedIn і Twitter, розширюючи охоплення потенційних клієнтів. Зручні навігаційні функції, як-от інтерактивні слайдери, фотогалереї та 360-градусні види власності, забезпечують захоплюючий досвід. Можливості теми щодо електронної комерції дозволяють використовувати електронні книги про нерухомість, посібники з купівлі нерухомості та продаж квитків на семінари безпосередньо на сайті. Для міжнародного маркетингу нерухомості тема пропонує багатомовну підтримку, яка обслуговує глобальну аудиторію. Він також містить розділи блогу з порадами щодо нерухомості, ринковими тенденціями, порадами щодо обслуговування нерухомості та путівниками по сусідству. Підсумовуючи, тема WordPress Real Estate Hub — це всеосяжна та багатофункціональна платформа, яка пропонує широкий спектр інструментів і функцій для різних гравців. в галузі нерухомості, покращуючи свою присутність в Інтернеті та оптимізуючи процеси маркетингу та продажу нерухомості."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Real Estate Hub"
+msgstr "Real Estate Hub"
+
+#: inc/customizer.php:682
+msgid "Select"
+msgstr "Виберіть"
+
+#: template-parts/home/slider.php:91
+msgid "No category selected"
+msgstr "Не вибрано жодної категорії"
+
+#: template-parts/home/slider.php:88
+msgid "No posts found"
+msgstr "Не знайдено записів"
+
+#: inc/about-theme.php:316
+msgid "Theme Bundle"
+msgstr "Тематичний пакет"
+
+#: inc/customizer.php:424
+msgid "Edit Section Title"
+msgstr "Редагувати назву розділу"
+
+#: inc/customizer.php:453
+msgid "Related Post Per Row"
+msgstr "Пов’язаний запис на рядок"
+
+#: inc/customizer.php:502
+msgid "Font Weight"
+msgstr "Товщина шрифту"
+
+#: inc/customizer.php:506
+msgid "100"
+msgstr "100"
+
+#: inc/customizer.php:507
+msgid "200"
+msgstr "200"
+
+#: inc/customizer.php:508
+msgid "300"
+msgstr "300"
+
+#: inc/customizer.php:509
+msgid "400"
+msgstr "400"
+
+#: inc/customizer.php:510
+msgid "500"
+msgstr "500"
+
+#: inc/customizer.php:511
+msgid "600"
+msgstr "600"
+
+#: inc/customizer.php:512
+msgid "700"
+msgstr "700"
+
+#: inc/customizer.php:513
+msgid "800"
+msgstr "800"
+
+#: inc/customizer.php:514
+msgid "900"
+msgstr "900"
+
+#: inc/customizer.php:1008
+msgid "Sale Badge Position"
+msgstr "Позиція бейджа розпродажу"
+
+#: inc/customizer.php:1009
+msgid "This option work for Archieve Products"
+msgstr "Ця опція працює для архівних товарів"
+
+#: inc/about-theme.php:93 inc/about-theme.php:312
+msgid "Get WordPress Theme Bundle"
+msgstr "Отримайте пакет тем для WordPress"
+
+#: inc/about-theme.php:314
+msgid " WordPress Theme Bundle of 65+ Themes At 15% Discount. "
+msgstr " Набір тем для WordPress з 65 тем зі знижкою 15%. "
+
+#: inc/about-theme.php:315
+msgid "Spring Offer Is To Get WP Bundle of 65+ Themes At 15% Discount use the coupon"
+msgstr "Весняна пропозиція - отримати WP-пакет з 65 тем зі знижкою 15%, використовуйте купон"
+
+#: inc/customizer.php:468
+msgid "Post Layout"
+msgstr "Компонування запису"
+
+#: inc/customizer.php:471
+msgid "Media-Content"
+msgstr "Медіа-вміст"
+
+#: inc/customizer.php:472
+msgid "Content-Media"
+msgstr "Вміст-медіа"
+
+#: inc/customizer.php:302
+msgid "Theme First Color"
+msgstr "Перший колір теми"
+
+#: inc/customizer.php:214
+msgid "TP Typography Option"
+msgstr "Опція типографіки - TP"
+
+#: inc/customizer.php:226
+msgid "heading Fonts"
+msgstr "шрифти заголовка"
+
+#: inc/customizer.php:238
+msgid "Body Fonts"
+msgstr "Шрифт тіла"
+
+#: inc/customizer.php:491
+msgid "Menu Fonts"
+msgstr "Шрифти меню"
+
+#: inc/customizer.php:436
+msgid "Related Post Per Page"
+msgstr "Пов’язаний запис на сторінку"
+
+#: inc/customizer.php:1042
+msgid "404 Page"
+msgstr "Сторінка 404"
+
+#: inc/customizer.php:1046
+msgid "Oops! That page cant be found."
+msgstr "Ой! Сторінка не знайдена."
+
+#: inc/customizer.php:1050
+msgid "Edit Title"
+msgstr "Редагувати назву"
+
+#: inc/customizer.php:1059
+msgid "Edit Text"
+msgstr "Редагувати текст"
+
+#: inc/customizer.php:841
+msgid "Control will no function if the toggle in the main settings is off."
+msgstr "Контроль не працюватиме, якщо перемикач в основних налаштуваннях вимкнено."
+
+#: inc/customizer.php:327
+msgid "category"
+msgstr "категорія"
+
+#: inc/customizer.php:401
+msgid "Show / Hide Comment Form"
+msgstr "Форма коментаря: показ/схов"
+
+#: inc/customizer.php:414 inc/customizer.php:884
+msgid "Show / Hide Related Post"
+msgstr "Пов’язаний запис: показ/схов"
+
+#. Template Name of the theme
+msgid "Custom Home Page"
+msgstr "Власна домашня сторінка"
+
+#: sidebar.php:12
+msgid "Search"
+msgstr "Пошук"
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr "Мета"
+
+#: sidebar.php:26
+msgid "Archives"
+msgstr "Архіви"
+
+#: sidebar.php:33
+msgid "Tag Cloud"
+msgstr "Хмара позначок"
+
+#: inc/customizer.php:420 template-parts/post/related-post.php:25
+msgid "Related Posts"
+msgstr "Пов'язані записи"
+
+#: inc/customizer.php:62
+msgid "Post Sidebar Position"
+msgstr "Позиція бічної колонки запису"
+
+#: inc/customizer.php:80
+msgid "Single Post Sidebar Position"
+msgstr "Позиція бічної колонки окремого запису"
+
+#: inc/customizer.php:81
+msgid "This option work for single blog page"
+msgstr "Ця опція працює для окремої сторінки блогу"
+
+#: inc/customizer.php:320
+msgid "Meta Order"
+msgstr "Порядок метаданих"
+
+#: inc/customizer.php:321
+msgid "Drag & Drop post items to re-arrange the order and also hide and show items as per the need by clicking on the eye icon."
+msgstr "Перетягніть і опустіть елементи публікації, щоб змінити порядок, а також приховати та показати елементи відповідно до потреб, натиснувши піктограму ока."
+
+#: inc/customizer.php:324
+msgid "date"
+msgstr "дата"
+
+#: inc/customizer.php:325
+msgid "author"
+msgstr "автор"
+
+#: inc/customizer.php:326
+msgid "comment"
+msgstr "коментар"
+
+#: inc/customizer.php:1033
+msgid "Show / Hide related product"
+msgstr "Супутній товар: показ/схов"
+
+#: inc/customizer.php:781
+msgid "Footer Widget Columns"
+msgstr "Колонки віджетів у футері"
+
+#: inc/customizer.php:910
+msgid "Site Title Font Size in PX"
+msgstr "Розмір шрифту назви сайту (px)"
+
+#: inc/customizer.php:938
+msgid "Site Tagline Font Size in PX"
+msgstr "Розмір шрифту ключової фрази сайту (px)"
+
+#: inc/customizer.php:712
+msgid "Show / Hide Our Projects Section"
+msgstr "Розділ наших проектів: показ/схов"
+
+#: inc/customizer.php:50
+msgid "Container"
+msgstr "Контейнер"
+
+#: inc/customizer.php:51
+msgid "Container Fluid"
+msgstr "Плаваючий контейнер"
+
+#: inc/customizer.php:245
+msgid "TP Preloader Option"
+msgstr "Опція анімації завантаження - TP"
+
+#: inc/customizer.php:265
+msgid "Preloader First Ring Color"
+msgstr "Колір першого кільця попереднього завантаження"
+
+#: inc/customizer.php:266
+msgid "It will change the complete theme preloader ring 1 color in one click."
+msgstr "Це змінить весь колір попереднього завантажувача теми 1 в один клік."
+
+#: inc/customizer.php:275
+msgid "Preloader Second Ring Color"
+msgstr "Колір другого кільця попереднього завантажувача"
+
+#: inc/customizer.php:276
+msgid "It will change the complete theme preloader ring 2 color in one click."
+msgstr "Це змінить весь колір попереднього завантажувача теми 2 в один клік."
+
+#: inc/customizer.php:285
+msgid "Preloader Background Color"
+msgstr "Колір фону анімації завантаження"
+
+#: inc/customizer.php:286
+msgid "It will change the complete theme preloader bg color in one click."
+msgstr "Він змінить фон коліра попереднього завантажувача теми одним клацанням миші."
+
+#: inc/customizer.php:479
+msgid "Menu Typography"
+msgstr "Типографіка меню"
+
+#: inc/customizer.php:524
+msgid "Menu Text Transform"
+msgstr "Перетворення тексту меню"
+
+#: inc/customizer.php:527
+msgid "Uppercase"
+msgstr "Верхній регістр"
+
+#: inc/customizer.php:528
+msgid "Lowercase"
+msgstr "Нижній регістр"
+
+#: inc/customizer.php:529
+msgid "Capitalize"
+msgstr "Заголовні букви"
+
+#: inc/customizer.php:538
+msgid "Font Size"
+msgstr "Розмір шрифту"
+
+#: inc/customizer.php:796
+msgid "Footer Widget Background Color"
+msgstr "Колір фону віджета футера"
+
+#: inc/customizer.php:797
+msgid "It will change the complete footer widget backgorund color."
+msgstr "Це змінить весь колір фону віджета футера."
+
+#: inc/customizer.php:806
+msgid "Footer Widget Background Image"
+msgstr "Фонове зображення віджета футера"
+
+#: inc/customizer.php:815 inc/customizer.php:851
+msgid "Show / Hide Return to header"
+msgstr "Повернутися до хедера: показ/схов"
+
+#: inc/customizer.php:828
+msgid "Scroll to top Position"
+msgstr "Розташування прокрутки до верху"
+
+#: inc/customizer.php:829
+msgid "This option work for scroll to top"
+msgstr "Ця опція працює для прокрутки до верху"
+
+#: inc/customizer.php:834
+msgid "Center"
+msgstr "По центру"
+
+#: inc/customizer.php:840
+msgid "Mobile Responsive media"
+msgstr "Мобільні адаптивні медіа"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: functions.php:529
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "Ласкаво просимо! Дякуємо, що обрали %1$s!"
+
+#: functions.php:533
+msgid "Click here to get started with the theme set-up."
+msgstr "Натисніть тут, щоб почати налаштування теми."
+
+#: functions.php:535
+msgid "Get started"
+msgstr "Початок роботи"
+
+#: inc/about-theme.php:42
+msgid "About Theme"
+msgstr "Про тему"
+
+#: inc/about-theme.php:68
+msgid "Theme Info"
+msgstr "Інформація про тему"
+
+#: inc/about-theme.php:70
+msgid "View Demo"
+msgstr "Переглянути демо"
+
+#: inc/about-theme.php:72
+msgid "Theme Instructions"
+msgstr "Інструкція з користування темою (англ.)"
+
+#: inc/about-theme.php:74
+msgid "Rate this theme"
+msgstr "Оцінити цю тему"
+
+#: inc/about-theme.php:76
+msgid "Upgrade to pro"
+msgstr "Оновитися до Pro"
+
+#: inc/about-theme.php:86
+msgid "Secondary menu"
+msgstr "Додаткове меню"
+
+#: inc/about-theme.php:87
+msgid "About"
+msgstr "Про"
+
+#: inc/about-theme.php:89
+msgid "Compare free Vs Pro"
+msgstr "Порівняйте Fre та Pro версії"
+
+#: inc/about-theme.php:91
+msgid "Changelog"
+msgstr "Журнал змін"
+
+#: inc/about-theme.php:109
+msgid "Return to Updates"
+msgstr "Повернутися до оновлень"
+
+#: inc/about-theme.php:109
+msgid "Return to Dashboard &rarr; Updates"
+msgstr "Повернутися до майстерні та оновлень"
+
+#: inc/about-theme.php:112
+msgid "Go to Dashboard &rarr; Home"
+msgstr "Перейти до майстерні та додому"
+
+#: inc/about-theme.php:112
+msgid "Go to Dashboard"
+msgstr "Перейти до майстерні"
+
+#: inc/about-theme.php:126
+msgid "Theme Customizer"
+msgstr "Налаштовувач теми"
+
+#: inc/about-theme.php:127
+msgid "All Theme Options are available via Customize screen."
+msgstr "Всі параметри теми доступні на екрані Налаштування."
+
+#: inc/about-theme.php:128
+msgid "Customize"
+msgstr "Налаштувати"
+
+#: inc/about-theme.php:132
+msgid "Got theme support question?"
+msgstr "Маєте запитання з підтримки теми?"
+
+#: inc/about-theme.php:133
+msgid "Get genuine support from genuine people. Whether it's customization or compatibility, our seasoned developers deliver tailored solutions to your queries."
+msgstr "Отримайте щиру підтримку від справжніх людей. Будь то налаштування чи сумісність, наші досвідчені розробники пропонують індивідуальні рішення для ваших запитів."
+
+#: inc/about-theme.php:134
+msgid "Support Forum"
+msgstr "Форум підтримки"
+
+#: inc/about-theme.php:138
+msgid "Upgrade To Premium With Straight 20% OFF."
+msgstr "Оновлення до Premium With Straight зі знижкою 20%."
+
+#: inc/about-theme.php:139
+msgid "Get our amazing WordPress theme with exclusive 20% off use the coupon"
+msgstr "Отримайте нашу дивовижну тему WordPress з ексклюзивною знижкою 20%, скориставшись купоном"
+
+#: inc/about-theme.php:140
+msgid "GETPro20"
+msgstr "GETPro20"
+
+#: inc/about-theme.php:156
+msgid "View changelog below:"
+msgstr "Дивіться журнал змін нижче:"
+
+#: inc/about-theme.php:224
+msgid "View Free vs Pro Table below:"
+msgstr "Дивіться таблицю Free та Pro нижче:"
+
+#: inc/about-theme.php:229
+msgid "Free Theme"
+msgstr "Безплатна тема"
+
+#: inc/about-theme.php:230
+msgid "Pro Theme"
+msgstr "Тема Pro"
+
+#: inc/about-theme.php:235
+msgid "Theme Demo Set Up"
+msgstr "Встановити демо теми"
+
+#: inc/about-theme.php:240
+msgid "Additional Templates, Color options and Fonts"
+msgstr "Додаткові шаблони, параметри кольорів і шрифтів"
+
+#: inc/about-theme.php:245
+msgid "Included Demo Content"
+msgstr "Демо вміст у комплекті"
+
+#: inc/about-theme.php:250
+msgid "Section Ordering"
+msgstr "Упорядкування розділів"
+
+#: inc/about-theme.php:255
+msgid "Multiple Sections"
+msgstr "Кілька розділів"
+
+#: inc/about-theme.php:260
+msgid "Additional Plugins"
+msgstr "Додаткові плагіни"
+
+#: inc/about-theme.php:265
+msgid "Premium Technical Support"
+msgstr "Преміальна технічна підтримка"
+
+#: inc/about-theme.php:270
+msgid "Access to Support Forums"
+msgstr "Доступ до форумів підтримки"
+
+#: inc/about-theme.php:275
+msgid "Free updates"
+msgstr "Безкоштовні оновлення"
+
+#: inc/about-theme.php:280
+msgid "Unlimited Domains"
+msgstr "Необмежена кількість доменів"
+
+#: inc/about-theme.php:285
+msgid "Responsive Design"
+msgstr "Адаптивний дизайн"
+
+#: inc/about-theme.php:290
+msgid "Live Customizer"
+msgstr "Налаштовувач в реальному часі"
+
+#: inc/about-theme.php:297
+msgid "Go For Premium"
+msgstr "Переходьте на Преміум"
+
+#: inc/customizer.php:45
+msgid "Body Layout Setting"
+msgstr "Налаштування компонування тіла"
+
+#: inc/customizer.php:46
+msgid "This option work for complete body, if you want to set the complete website in container."
+msgstr "Ця опція працює для всього сайту, якщо ви хочете розмістити весь сайт в контейнері."
+
+#: inc/customizer.php:112
+msgid "Show / Hide Sticky Header"
+msgstr "Прикріплений хедер: показ/схов"
+
+#: inc/customizer.php:303
+msgid "It will change the complete theme color in one click."
+msgstr "Змініть повністю колір теми одним натиском."
+
+#: inc/customizer.php:1190
+msgid "Theme Documentation"
+msgstr "Документація теми"
+
+#: inc/customizer.php:1191
+msgid "Click Here"
+msgstr "Натиснути тут"
+
+#: inc/customizer.php:293
+msgid "TP Color Option"
+msgstr "Варіант кольору - TP"
+
+#: functions.php:348
+msgid "Real Estate Hub WordPress Theme"
+msgstr "Тема Real Estate Hub WordPress"
+
+#: inc/customizer.php:29
+msgid " Custom Home Page "
+msgstr " Власна домашня сторінка "
+
+#: inc/customizer.php:673 inc/customizer.php:873
+msgid "Show / Hide Slider post"
+msgstr "Запис слайдера: показ/схов"
+
+#: inc/customizer.php:63
+msgid "This option work for blog page, blog single page, archive page and search page."
+msgstr "Ця опція працює для сторінки блогу, окремої сторінки блогу, сторінки архіву та сторінки пошуку."
+
+#: inc/customizer.php:67 inc/customizer.php:85 inc/customizer.php:102
+#: inc/customizer.php:833 inc/customizer.php:1012
+msgid "Left"
+msgstr "Ліворуч"
+
+#: inc/customizer.php:68 inc/customizer.php:86 inc/customizer.php:103
+#: inc/customizer.php:832 inc/customizer.php:1013
+msgid "Right"
+msgstr "Праворуч"
+
+#: inc/customizer.php:69
+msgid "Three Columns"
+msgstr "Три колонки"
+
+#: inc/customizer.php:70
+msgid "Four Columns"
+msgstr "Чотири колонки"
+
+#: inc/customizer.php:71
+msgid "Grid Layout"
+msgstr "Компонування сіткою"
+
+#: inc/customizer.php:97
+msgid "Page Sidebar Position"
+msgstr "Позиція бічної колонки сторінки"
+
+#: inc/customizer.php:98
+msgid "This option work for pages."
+msgstr "Ця опція працює для сторінок."
+
+#: inc/customizer.php:255
+msgid "Show / Hide Preloader Option"
+msgstr "Опція анімації завантаження: показ/схов"
+
+#: inc/customizer.php:310
+msgid "TP Blog Option"
+msgstr "Опція блогу - TP"
+
+#: inc/customizer.php:338
+msgid "Edit Excerpt Limit"
+msgstr "Обмеження редагування уривку"
+
+#: inc/customizer.php:348 template-parts/post/content-audio.php:55
+#: template-parts/post/content-audio.php:102
+#: template-parts/post/content-audio.php:127
+#: template-parts/post/content-gallery.php:52
+#: template-parts/post/content-gallery.php:105
+#: template-parts/post/content-gallery.php:130
+#: template-parts/post/content-grid.php:37
+#: template-parts/post/content-image.php:49
+#: template-parts/post/content-image.php:99
+#: template-parts/post/content-image.php:124
+#: template-parts/post/content-video.php:56
+#: template-parts/post/content-video.php:103
+#: template-parts/post/content-video.php:128 template-parts/post/content.php:42
+#: template-parts/post/content.php:80 template-parts/post/content.php:106
+#: template-parts/post/content.php:135 template-parts/post/related-post.php:41
+msgid "Read More"
+msgstr "Читати далі"
+
+#: inc/customizer.php:352
+msgid "Edit Button Text"
+msgstr "Редагувати текст кнопки"
+
+#: inc/customizer.php:362
+msgid "Show / Hide Read More Button"
+msgstr "Кнопка Читати далі: показ/схов"
+
+#: inc/customizer.php:373
+msgid "Show / Hide Tags Option"
+msgstr "Опція тегів"
+
+#: inc/customizer.php:385
+msgid "Show / Hide Category Option"
+msgstr "Опція категорії: показ/схов"
+
+#: inc/customizer.php:566
+msgid "Add Call Text"
+msgstr "Додати текст виклику"
+
+#: inc/customizer.php:575
+msgid "Add Phone Number"
+msgstr "Додати номер телефону"
+
+#: inc/customizer.php:593
+msgid "Add Mail Address"
+msgstr "Додати email-адресу"
+
+#: inc/customizer.php:618
+msgid "Slider Settings"
+msgstr "Налаштування слайдеру"
+
+#: inc/customizer.php:628
+msgid "Show / Hide slider"
+msgstr "Слайдер: показ/схов"
+
+#: inc/customizer.php:638
+msgid "Add short Heading"
+msgstr "Додати короткий заголовок"
+
+#: inc/customizer.php:651
+msgid "Select Slide Image Page"
+msgstr "Виберіть сторінку зображення слайду"
+
+#: inc/customizer.php:731
+msgid "Add Heading"
+msgstr "Додати заголовок"
+
+#: inc/customizer.php:753
+msgid "Select Category"
+msgstr "Виберіть категорію"
+
+#: inc/customizer.php:759
+msgid "Footer Text"
+msgstr "Текст футеру"
+
+#: inc/customizer.php:760
+msgid "Add copyright text."
+msgstr "Додати текст авторського права."
+
+#: inc/customizer.php:770
+msgid "Copyright Text"
+msgstr "Текст авторського права"
+
+#: inc/customizer.php:898
+msgid "Show / Hide Site Title"
+msgstr "Назва сайту: показ/схов"
+
+#: inc/customizer.php:926
+msgid "Show / Hide Site Tagline"
+msgstr "Ключова фраза сайту: показ/схов"
+
+#: inc/customizer.php:953
+msgid "Here You Can Customize Your Logo Size"
+msgstr "Тут ви можете налаштувати розмір лого"
+
+#: inc/customizer.php:976
+msgid "Product Per Row"
+msgstr "Товару на рядок"
+
+#: inc/customizer.php:987
+msgid "Product Per Page"
+msgstr "Товару на сторінку"
+
+#: inc/customizer.php:1178
+msgid "Upgrade Pro"
+msgstr "Оновити до Pro"
+
+#: page.php:38 page.php:59 page.php:79
+msgid "Pages:"
+msgstr "Сторінки:"
+
+#: template-parts/post/content-none.php:13
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+#: searchform.php:15
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Пошук &hellip;"
+
+#: template-parts/footer/footer-widgets.php:21
+msgid "Footer"
+msgstr "Футер"
+
+#: template-parts/navigation/site-nav.php:14
+msgid "Open Button"
+msgstr "Кнопка Відкрити"
+
+#: template-parts/navigation/site-nav.php:27
+msgid "Close Button"
+msgstr "Кнопка закриття"
+
+#: template-parts/navigation/site-nav.php:17
+msgid "Top Menu"
+msgstr "Верхнє меню"
+
+#. translators: %s: Post editor URL.
+#: template-parts/post/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Готові опублікувати свій перший запис? <a href=\"%s\">Почніть звідси</a>."
+
+#: template-parts/post/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Схоже, ми не можемо знайти те, що ви шукали. Можливо, пошук може допомогти."
+
+#: template-parts/post/content-audio.php:46
+#: template-parts/post/content-audio.php:93
+#: template-parts/post/content-audio.php:118
+#: template-parts/post/content-gallery.php:43
+#: template-parts/post/content-gallery.php:96
+#: template-parts/post/content-gallery.php:121
+#: template-parts/post/content-grid.php:28
+#: template-parts/post/content-image.php:40
+#: template-parts/post/content-image.php:90
+#: template-parts/post/content-image.php:115
+#: template-parts/post/content-video.php:47
+#: template-parts/post/content-video.php:94
+#: template-parts/post/content-video.php:119 template-parts/post/content.php:33
+#: template-parts/post/content.php:71 template-parts/post/content.php:97
+#: template-parts/post/content.php:126 template-parts/post/single-post.php:19
+msgid "0 Comments"
+msgstr "Немає коментарів"
+
+#: template-parts/post/content-audio.php:46
+#: template-parts/post/content-audio.php:93
+#: template-parts/post/content-audio.php:118
+#: template-parts/post/content-gallery.php:43
+#: template-parts/post/content-gallery.php:96
+#: template-parts/post/content-gallery.php:121
+#: template-parts/post/content-grid.php:28
+#: template-parts/post/content-image.php:40
+#: template-parts/post/content-image.php:90
+#: template-parts/post/content-image.php:115
+#: template-parts/post/content-video.php:47
+#: template-parts/post/content-video.php:94
+#: template-parts/post/content-video.php:119 template-parts/post/content.php:33
+#: template-parts/post/content.php:71 template-parts/post/content.php:97
+#: template-parts/post/content.php:126 template-parts/post/single-post.php:19
+msgid "% Comments"
+msgstr "Коментарів %"
+
+#: template-parts/post/single-post.php:49
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Опубліковано в</span><span class=\"post-title\">%title</span>"
+
+#: template-parts/post/single-post.php:54
+msgid "Next:"
+msgstr "Наступний:"
+
+#: template-parts/post/single-post.php:56
+msgid "Previous:"
+msgstr "Попередній:"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Ви повинні увійти, щоб оформити замовлення."
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr "Ваше замовлення"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Отакої! Цю сторінку не знайдено."
+
+#: 404.php:17 inc/customizer.php:1055
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "За даною адресою нічого не знайдено. Спробуйте скористатися пошуком?"
+
+#: archive.php:54 archive.php:92 archive.php:129 archive.php:166
+#: archive.php:205 archive.php:244 archive.php:282 index.php:45 index.php:83
+#: index.php:120 index.php:157 index.php:196 index.php:235 index.php:273
+#: single.php:45 single.php:70 single.php:94 single.php:117
+msgid "Previous page"
+msgstr "Попередня сторінка"
+
+#: archive.php:55 archive.php:93 archive.php:130 archive.php:167
+#: archive.php:206 archive.php:245 archive.php:283 index.php:46 index.php:84
+#: index.php:121 index.php:158 index.php:197 index.php:236 index.php:274
+#: single.php:46 single.php:71 single.php:95 single.php:118
+msgid "Next page"
+msgstr "Наступна сторінка"
+
+#: archive.php:56 archive.php:94 archive.php:131 archive.php:168
+#: archive.php:207 archive.php:246 archive.php:284 index.php:47 index.php:85
+#: index.php:122 index.php:159 index.php:198 index.php:237 index.php:275
+#: single.php:47 single.php:72 single.php:96 single.php:119
+msgid "Page"
+msgstr "Сторінка"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s відповідь на &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s відповіді на &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s відповідей на &ldquo;%2$s&rdquo;"
+
+#: comments.php:59 template-parts/home/slider.php:98
+msgid "Previous"
+msgstr "Попередній"
+
+#: comments.php:60 template-parts/home/slider.php:102
+msgid "Next"
+msgstr "Далі"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Коментування закрито."
+
+#: functions.php:26
+msgid "Primary Menu"
+msgstr "Основне меню"
+
+#: functions.php:187 sidebar.php:9
+msgid "Blog Sidebar"
+msgstr "Бічна колонка блогу"
+
+#: functions.php:189 functions.php:209
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Додайте сюди віджети, щоб вони з'явилися на бічній колонці на сторінках записів блогу та архіву."
+
+#: functions.php:197
+msgid "Page Sidebar"
+msgstr "Бічна колонка сторінки"
+
+#: functions.php:199
+msgid "Add widgets here to appear in your sidebar on pages."
+msgstr "Додайте тут віджети, щоб вони з'являлися у бічній колонки на сторінках."
+
+#: functions.php:207
+msgid "Sidebar 3"
+msgstr "Бічна колонка 3"
+
+#: functions.php:217
+msgid "Footer 1"
+msgstr "Футер 1"
+
+#: functions.php:219 functions.php:229 functions.php:239 functions.php:249
+msgid "Add widgets here to appear in your footer."
+msgstr "Додайте сюди віджети для відображення у футері."
+
+#: functions.php:227
+msgid "Footer 2"
+msgstr "Футер 2"
+
+#: functions.php:237
+msgid "Footer 3"
+msgstr "Футер 3"
+
+#: functions.php:247
+msgid "Footer 4"
+msgstr "Футер 4"
+
+#: header.php:40
+msgid "Skip to content"
+msgstr "Перейти до вмісту"
+
+#: inc/customizer.php:30
+msgid "Description of what this panel does."
+msgstr "Опис того, що робить ця панель."
+
+#: inc/customizer.php:35
+msgid "TP General Option"
+msgstr "Загальна опція - TP"
+
+#: inc/customizer.php:49 inc/customizer.php:66 inc/customizer.php:84
+#: inc/customizer.php:101
+msgid "Full"
+msgstr "Повний"
+
+#: inc/customizer.php:548
+msgid "Header Settings"
+msgstr "Налаштування хедера"
+
+#: inc/customizer.php:557
+msgid "Add Topbar Text"
+msgstr "Додати текст у верхню панель"
+
+#: inc/customizer.php:584
+msgid "Add Email Text"
+msgstr "Додати текст email"
+
+#: inc/customizer.php:602
+msgid "Add Button Text"
+msgstr "Додати текст кнопки"
+
+#: inc/customizer.php:611
+msgid "Add Button URL"
+msgstr "Додати URL кнопки"
+
+#: inc/customizer.php:696
+msgid "Select post"
+msgstr "Виберіть запис"
+
+#: inc/customizer.php:702
+msgid "Our Projects Section"
+msgstr "Розділ наших проєктів"
+
+#: inc/customizer.php:963
+msgid "Logo Layout Settings"
+msgstr "Налаштування компонування лого"
+
+#: inc/customizer.php:967
+msgid "Different Line"
+msgstr "Різна лінія"
+
+#: inc/customizer.php:968
+msgid "Same Line"
+msgstr "Та сама лінія"
+
+#: inc/customizer.php:997
+msgid "Show / Hide Shop page sidebar"
+msgstr "Бічна колонка сторінки магазину: показ/схов"
+
+#: inc/customizer.php:1022
+msgid "Show / Hide Product page sidebar"
+msgstr "Бічна колонка сторінки товару: показ/схов"
+
+#: template-parts/home/project.php:49
+msgid "See Details"
+msgstr "Дивіться деталі"
+
+#: inc/customizer.php:1093
+msgid "Real Estate Hub Pro Theme"
+msgstr "Тема Real Estate Hub Pro"
+
+#: header.php:14
+msgid "http://gmpg.org/xfn/11"
+msgstr "http://gmpg.org/xfn/11"
+
+#: inc/customizer.php:964
+msgid "Here you have two options 1. Logo and Site tite in differnt line. 2. Logo and Site title in same line."
+msgstr "Тут у вас є два варіанти 1. Логотип та назва сайту в різних рядках. 2. Логотип та назва сайту в одному рядку."
+
+#: inc/customizer.php:722
+msgid "Add Sub Heading"
+msgstr "Додати підзаголовок"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemesPride"
+msgstr "ThemesPride"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.themespride.com/"
+msgstr "https://www.themespride.com/"
+
+#. Theme URI of the theme
+#: style.css functions.php:345
+#, gp-priority: low
+msgid "https://www.themespride.com/products/free-real-estate-wordpress-theme"
+msgstr "https://www.themespride.com/products/free-real-estate-wordpress-theme"
